@@ -1,0 +1,14 @@
+{
+    "name": "ufirstgroup/api-ops-genie",
+    "description": "Helper for notify OPSGenie",
+    "authors": [
+        {
+            "name": "Dominick Makome",
+            "email": "dominick.makome@ufirstgroup.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	"psr-4": { "OPSGenie\\Api\\": ""}
+    }
+}
