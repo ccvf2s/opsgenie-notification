@@ -10,7 +10,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@gitlab.ufirstgroup.com:dominick_makome/api-ops-genie.git"
+            "url": "git@github.com:ccvf2s/opsgenie-notification.git"
         }
     ],
     "require": {},
