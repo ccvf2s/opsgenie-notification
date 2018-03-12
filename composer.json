@@ -9,7 +9,7 @@
     ],
     "repositories": [
         {
-            "type": "vcs",
+            "type": "git",
             "url": "git@github.com:ccvf2s/opsgenie-notification.git"
         }
     ],
