@@ -7,7 +7,7 @@
             "email": "dominick.makome@ufirstgroup.com"
         }
     ],
-    "minimum-stability" : "dev-master",
+    "minimum-stability" : "dev",
     "repositories": [
         {"type": "vcs", "url": "https://github.com/ccvf2s/opsgenie-notification"}
     ],
