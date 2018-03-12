@@ -7,6 +7,12 @@
             "email": "dominick.makome@ufirstgroup.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@gitlab.ufirstgroup.com:dominick_makome/api-ops-genie.git"
+        }
+    ],
     "require": {},
     "autoload": {
 	"psr-4": { "OPSGenie\\Api\\": ""}
