@@ -7,11 +7,12 @@
             "email": "dominick.makome@ufirstgroup.com"
         }
     ],
-    "minimum-stability" : "dev",
     "repositories": [
         {"type": "vcs", "url": "https://github.com/ccvf2s/opsgenie-notification"}
     ],
     "require": {},
+    "minimum-stability" : "dev",
+    "prefer-stable": true,
     "autoload": {
 	"psr-4": { "OPSGenie\\Api\\": ""}
     }
